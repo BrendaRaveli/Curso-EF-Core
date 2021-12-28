@@ -1,0 +1,103 @@
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\bin\Debug\netcoreapp3.1\CursoEFCore.exe
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\bin\Debug\netcoreapp3.1\CursoEFCore.deps.json
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\bin\Debug\netcoreapp3.1\CursoEFCore.runtimeconfig.json
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\bin\Debug\netcoreapp3.1\CursoEFCore.runtimeconfig.dev.json
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\bin\Debug\netcoreapp3.1\CursoEFCore.dll
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\bin\Debug\netcoreapp3.1\CursoEFCore.pdb
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\obj\Debug\netcoreapp3.1\CursoEFCore.csprojAssemblyReference.cache
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\obj\Debug\netcoreapp3.1\CursoEFCore.AssemblyInfoInputs.cache
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\obj\Debug\netcoreapp3.1\CursoEFCore.AssemblyInfo.cs
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\obj\Debug\netcoreapp3.1\CursoEFCore.csproj.CoreCompileInputs.cache
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\obj\Debug\netcoreapp3.1\CursoEFCore.csproj.CopyComplete
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\obj\Debug\netcoreapp3.1\CursoEFCore.dll
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\obj\Debug\netcoreapp3.1\CursoEFCore.pdb
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\obj\Debug\netcoreapp3.1\CursoEFCore.genruntimeconfig.cache
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+D:\Cursos\DesenvolvedorIO\Introducao\Curso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\bin\Debug\netcoreapp3.1\CursoEFCore.exe
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\bin\Debug\netcoreapp3.1\CursoEFCore.deps.json
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\bin\Debug\netcoreapp3.1\CursoEFCore.runtimeconfig.json
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\bin\Debug\netcoreapp3.1\CursoEFCore.runtimeconfig.dev.json
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\bin\Debug\netcoreapp3.1\CursoEFCore.dll
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\bin\Debug\netcoreapp3.1\CursoEFCore.pdb
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\obj\Debug\netcoreapp3.1\CursoEFCore.csproj.AssemblyReference.cache
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\obj\Debug\netcoreapp3.1\CursoEFCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\obj\Debug\netcoreapp3.1\CursoEFCore.AssemblyInfoInputs.cache
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\obj\Debug\netcoreapp3.1\CursoEFCore.AssemblyInfo.cs
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\obj\Debug\netcoreapp3.1\CursoEFCore.csproj.CoreCompileInputs.cache
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\obj\Debug\netcoreapp3.1\CursoEFCore.csproj.CopyComplete
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\obj\Debug\netcoreapp3.1\CursoEFCore.dll
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\obj\Debug\netcoreapp3.1\CursoEFCore.pdb
+D:\Introdução ao Entity Framework Core\Links e Materiais\Materiais\Curso\obj\Debug\netcoreapp3.1\CursoEFCore.genruntimeconfig.cache
